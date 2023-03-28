@@ -1,0 +1,42 @@
+{
+  "enquiry": [
+    {
+      "FirstName": "dhruv",
+      "LastName": "kumar",
+      "Email": "dhruvsmcet@gmail.com",
+      "Mobile": "9798731609",
+      "weight": 72,
+      "Height": 2.2,
+      "Bmi": null,
+      "bmiResult": null,
+      "gender": "Male",
+      "TrainerOpt": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Toxic Fat Reduction"
+      ],
+      "haveGymBefore": "Yes",
+      "picker": "2023-02-14T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "FirstName": "shyam",
+      "LastName": "Kumar",
+      "Email": null,
+      "Mobile": "01234567888",
+      "weight": 75,
+      "Height": 1.63,
+      "Bmi": 28.228386465429637,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "TrainerOpt": "No",
+      "package": "Yearly",
+      "important": [
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "picker": "2023-02-15T18:30:00.000Z",
+      "id": 6
+    }
+  ]
+}
